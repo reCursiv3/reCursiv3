@@ -9,7 +9,7 @@ reCursiv3/reCursiv3 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm Aadesh - aka @reCursiv3 👋
+### Hi there, I'm Mallya - aka @reCursiv3 👋
 ![Visitor Count](https://profile-counter.glitch.me/reCursiv3/count.svg)
 
 ### I'm a final year undergraduate student at NMIMS.
