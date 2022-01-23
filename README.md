@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm Mallya - aka @reCursiv3 👋
 ![Visitor Count](https://profile-counter.glitch.me/reCursiv3/count.svg)
 
-### I'm a final year undergraduate student.
+### I'm grad student.
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
